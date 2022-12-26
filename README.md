@@ -4,3 +4,4 @@ Using Data Fusion techniques for ensembling multiple feature selection methods t
 
 This implementation of the proposed method in this paper "A Fusion-Based Feature Selection Framework for Microarray Data Classification"
 
+![Figures](https://user-images.githubusercontent.com/62042702/209561916-1bcba8c9-8745-4595-a3e8-0ded3580f236.png)
